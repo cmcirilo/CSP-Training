@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "CSP Training",
+  "name": "csp training",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
